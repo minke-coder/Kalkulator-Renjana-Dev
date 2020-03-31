@@ -1,0 +1,17 @@
+#include <iostream>
+#include <conio.h>
+using namespace std;
+
+int a, b, c, pil;
+char y;
+
+int penjumlahan ();
+
+int penjumlahan () {
+   cout<<endl<<endl;
+   cout<<"---Operasi Penjumlahan---"<<endl;
+   cout<<"Masukkan Nilai Pertama : "; cin>>a;
+   cout<<"Masukkan Nilai Kedua : "; cin>>b;
+   c=a+b;
+   cout<<"Hasil Penjumlahan : "<<c<<endl<<endl;
+}
