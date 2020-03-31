@@ -13,5 +13,5 @@ int penjumlahan () {
    cout<<"Masukkan Nilai Pertama : "; cin>>a;
    cout<<"Masukkan Nilai Kedua : "; cin>>b;
    c=a+b;
-   cout<<"Hasil Penjumlahan : "<<d<<endl<<endl;
+   cout<<"Hasil Penjumlahan : "<<c<<endl<<endl;
 }
