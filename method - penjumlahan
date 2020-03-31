@@ -6,6 +6,8 @@ int a, b, c, pil;
 char y;
 
 int penjumlahan ();
+int pengurangan ();
+int pembagian ();
 
 int penjumlahan () {
    cout<<endl<<endl;
