@@ -48,6 +48,21 @@ int penjumlahan () {
    c=a+b;
    cout<<"Hasil Penjumlahan : "<<c<<endl<<endl;
 }
+
+int pengurangan () 
+{
+   cout << endl << endl;
+   cout << "---Operasi Pengurangan---" << endl;
+   cout << "Masukkan Nilai Pertama : "; 
+   cin  >> a;
+   cout << "Masukkan Nilai Kedua    : "; 
+   cin  >> b;
+   
+   c = a-b;
+   
+   cout << "Hasil Pengurangan : "<< c << endl << endl;
+}
+
 int pembagian () {
    cout<<endl<<endl;
    cout<<"---Operasi Pembagian---"<<endl;
