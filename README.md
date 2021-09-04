@@ -1,2 +1,2 @@
 # Kalkulator-Renjana-Dev-
-Latihan Tugas SCV Kalkulator Sederhana Mata Kuliah Perancangan Rekayasa Perangkat Lunak
+Latihan Tugas SCV Kalkulator Sederhana untuk memenuhi tugas Mata Kuliah Perancangan Rekayasa Perangkat Lunak.
